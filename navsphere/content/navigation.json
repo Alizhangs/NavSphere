@@ -181,6 +181,14 @@
               "description": "Microsoft 必应搜索",
               "icon": "/assets/favicon_1766837714376.png",
               "enabled": true
+            },
+            {
+              "id": "1766837728840",
+              "title": "百度",
+              "href": "https://www.baidu.com/",
+              "description": "百度一下，你就知道",
+              "icon": "/assets/favicon_1766837740352.ico",
+              "enabled": true
             }
           ]
         },
