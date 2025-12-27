@@ -173,6 +173,14 @@
               "description": "访问 www.google.com",
               "icon": "/assets/favicon_1766837694042.png",
               "enabled": true
+            },
+            {
+              "id": "1766837705873",
+              "title": "搜索 - Microsoft 必应",
+              "href": "https://www.bing.com/",
+              "description": "Microsoft 必应搜索",
+              "icon": "/assets/favicon_1766837714376.png",
+              "enabled": true
             }
           ]
         },
