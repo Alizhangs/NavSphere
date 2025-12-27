@@ -165,7 +165,16 @@
           "icon": "Home",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1766837682903",
+              "title": "Google",
+              "href": "https://www.google.com/",
+              "description": "访问 www.google.com",
+              "icon": "/assets/favicon_1766837694042.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "32342bc0-0527-4142-b267-783e45b0ccb1",
