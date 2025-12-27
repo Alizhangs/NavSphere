@@ -213,6 +213,14 @@
               "description": "京东次日达",
               "icon": "/assets/favicon_1766837794204.png",
               "enabled": true
+            },
+            {
+              "id": "1766837814661",
+              "title": "Bilibili",
+              "href": "https://www.bilibili.com/",
+              "description": "哔哩哔哩！干杯！🍻",
+              "icon": "/assets/favicon_1766837823555.png",
+              "enabled": true
             }
           ]
         },
