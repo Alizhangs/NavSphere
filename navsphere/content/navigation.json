@@ -189,6 +189,14 @@
               "description": "百度一下，你就知道",
               "icon": "/assets/favicon_1766837740352.ico",
               "enabled": true
+            },
+            {
+              "id": "1766837757696",
+              "title": "Google 翻译",
+              "href": "https://translate.google.com/",
+              "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
+              "icon": "/assets/favicon_1766837760400.ico",
+              "enabled": true
             }
           ]
         },
