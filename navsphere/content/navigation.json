@@ -205,6 +205,14 @@
               "description": "淘宝网 - 亚洲较大的网上交易平台",
               "icon": "/assets/favicon_1766837777145.png",
               "enabled": true
+            },
+            {
+              "id": "1766837790181",
+              "title": "京东",
+              "href": "https://www.jd.com/",
+              "description": "京东次日达",
+              "icon": "/assets/favicon_1766837794204.png",
+              "enabled": true
             }
           ]
         },
