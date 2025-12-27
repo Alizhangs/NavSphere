@@ -197,6 +197,14 @@
               "description": "Google 免费提供的这项服务可在简体中文和其他 100 多种语言之间即时翻译字词、短语和网页。",
               "icon": "/assets/favicon_1766837760400.ico",
               "enabled": true
+            },
+            {
+              "id": "1766837774516",
+              "title": "淘宝",
+              "href": "https://www.taobao.com/",
+              "description": "淘宝网 - 亚洲较大的网上交易平台",
+              "icon": "/assets/favicon_1766837777145.png",
+              "enabled": true
             }
           ]
         },
