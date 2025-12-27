@@ -160,22 +160,6 @@
       ],
       "subCategories": [
         {
-          "id": "32342bc0-0527-4142-b267-783e45b0ccb1",
-          "title": "VPS",
-          "icon": "Cloud",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "9bc8ac7a-bc85-4190-8b09-37b69619c7dc",
-          "title": "测速地址",
-          "icon": "Zap",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
           "id": "d9961418-54c4-42b1-8732-efdcc154b9cd",
           "title": "常用网站",
           "icon": "Home",
@@ -303,6 +287,22 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "32342bc0-0527-4142-b267-783e45b0ccb1",
+          "title": "VPS",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "9bc8ac7a-bc85-4190-8b09-37b69619c7dc",
+          "title": "测速地址",
+          "icon": "Zap",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
