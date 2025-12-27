@@ -277,6 +277,14 @@
               "description": "",
               "icon": "/assets/favicon_1766837935785.ico",
               "enabled": true
+            },
+            {
+              "id": "1766837958842",
+              "title": "Linux",
+              "href": "https://linux.do/",
+              "description": "访问 linux.do",
+              "icon": "/assets/favicon_1766837960745.png",
+              "enabled": true
             }
           ]
         },
