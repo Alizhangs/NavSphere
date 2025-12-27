@@ -253,6 +253,14 @@
               "description": "元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
               "icon": "/assets/favicon_1766837889752.png",
               "enabled": true
+            },
+            {
+              "id": "1766837898862",
+              "title": "Cloudflare",
+              "href": "https://www.cloudflare.com/zh-cn/",
+              "description": "使员工、应用和网络在任何地方都更快、更安全，同时降低复杂性和成本。",
+              "icon": "/assets/favicon_1766837902211.ico",
+              "enabled": true
             }
           ]
         },
