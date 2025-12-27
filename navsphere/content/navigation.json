@@ -245,6 +245,14 @@
               "description": "",
               "icon": "/assets/favicon_1766837874647.png",
               "enabled": true
+            },
+            {
+              "id": "1766837885873",
+              "title": "元宝",
+              "href": "https://yuanbao.tencent.com/chat/naQivTmsDa",
+              "description": "元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
+              "icon": "/assets/favicon_1766837889752.png",
+              "enabled": true
             }
           ]
         },
