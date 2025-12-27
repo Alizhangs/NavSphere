@@ -166,6 +166,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "32342bc0-0527-4142-b267-783e45b0ccb1",
+          "title": "VPS",
+          "icon": "Cloud",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ],
       "description": "",
