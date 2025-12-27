@@ -285,6 +285,14 @@
               "description": "访问 linux.do",
               "icon": "/assets/favicon_1766837960745.png",
               "enabled": true
+            },
+            {
+              "id": "site_1766838109060_usmao7sgz",
+              "title": "NodeSeek",
+              "href": "https://www.nodeseek.com/",
+              "description": "",
+              "icon": "/assets/favicon_1766838102939.png",
+              "enabled": true
             }
           ]
         },
